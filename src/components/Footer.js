@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
   render() {
     return (
      
-    )
+      }
   }
 }
 
