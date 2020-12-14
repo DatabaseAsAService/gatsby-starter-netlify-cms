@@ -9,9 +9,7 @@ import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
-    return (
-     
-      }
+    return (' ')
   }
 }
 
